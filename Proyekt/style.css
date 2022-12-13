@@ -1,0 +1,46 @@
+.btn{
+    margin: 15px;
+}
+#usernames{
+    margin: 15px;
+}
+#sekil{
+    width: 500px;
+    height: 400px;
+    margin-left: 730px;
+}
+#yazi{
+    color: white;
+}
+#esas{
+    margin-left: 700px;
+}
+#buttona{
+    margin-left: 175px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    margin: 50px;
+    font-size: 30px;
+}
+
+.box img {
+    width: 100%;
+}
+
+.computers{
+    border:  solid black 1px;
+    
+    background-image: url("proyekt\ arxa\ fon.jpg");
+}
+
+.buttonsGroup{
+    border:  solid black 1px;
+    
+    
+}
